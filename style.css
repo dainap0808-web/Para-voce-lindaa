@@ -4,11 +4,11 @@
     --color-page-background: #50AFC9;
     --color-main-container-background: #b4a7d6;
     --color-inner-container-background: #FFF7F4;
-    --color-border: #9E0E2B;
+    --color-border: #351c75;
     --color-button-background: #FFF;
     --color-heading-text: #FFF;
-    --color-button-text: #9E0E2B;
-    --color-message-text: #9E0E2B;
+    --color-button-text: #351c75;
+    --color-message-text: #351c75;
     
     /* Images */
     --image-path-background: url('assets/main-bg.png');
