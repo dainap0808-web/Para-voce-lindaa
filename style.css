@@ -125,7 +125,7 @@
     justify-content: flex-start;
     align-items: center;
     background: var(--image-path-content) no-repeat center;
-    background-size: contain;
+    background-size: cover;
     transition: opacity 0.5s ease;
     opacity: 1;
   }
