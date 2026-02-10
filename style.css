@@ -161,7 +161,7 @@
     color: var(--color-message-text);
     text-align: center;
     font-family: var(--font-family-main);
-    font-size: var(--font-size-large);
+    font-size: var(--font-size-small);
     font-style: normal;
     font-weight: 150;
     line-height: normal;
