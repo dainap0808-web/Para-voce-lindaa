@@ -118,7 +118,7 @@
   /* Image Content */
   .image-content {
     position: relative;
-    height: 65%;
+    height: 95%;
     aspect-ratio: 142.5 / 171;
     display: flex;
     flex-direction: column;
