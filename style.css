@@ -118,14 +118,14 @@
   /* Image Content */
   .image-content {
     position: relative;
-    height: 95%;
+    height: 65%;
     aspect-ratio: 142.5 / 171;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     background: var(--image-path-content) no-repeat center;
-    background-size: cover;
+    background-size: fill;
     transition: opacity 0.5s ease;
     opacity: 1;
   }
